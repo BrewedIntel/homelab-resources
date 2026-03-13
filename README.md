@@ -213,6 +213,10 @@ Best hardware-focused homelab community.
 ### **Homelab Wiki**  
 General homelab guidance and documentation.
 
+### **selfhosting.sh**  
+https://selfhosting.sh  
+Guides, comparisons, and setup tutorials for self-hosted alternatives to cloud services.
+
 ---
 
 ## Contributing
