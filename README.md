@@ -200,6 +200,10 @@ Common enterprise servers for budget homelabs.
 ### **Raspberry Pi / ARM boards**  
 Lightweight automation or monitoring nodes.
 
+### **Homelab Hardware Price Trackers**  
+https://sheley.org/trackers/  
+Live used and new prices for drives, RAM, mini PCs, NAS, servers and switches, ranked by $/TB, $/GB or $/port.
+
 ---
 
 ## Helpful Homelab Communities
