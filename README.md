@@ -85,6 +85,12 @@ Next-gen DHCP server from ISC.
 https://lockip.net  
 Simple DDNS with API keys, ideal for homelab address tracking.
 
+### **Kilobat CLI (macOS)**
+
+[Source and installation](https://github.com/seifip/kilobat-cli)
+
+Diagnose DNS, latency and failed connections from macOS; includes JSON output and a local MCP server.
+
 ---
 
 ## Storage & Backup
