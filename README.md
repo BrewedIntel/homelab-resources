@@ -188,6 +188,11 @@ Collaborative threat defense for home networks.
 
 ## Hardware Ideas
 
+### **RunAHomeLab 10-Inch Rack Builder**
+https://runahomelab.com/rack-builder/
+
+Free interactive planner for compact 10-inch homelab racks. Arrange equipment, check documented fit and depth constraints, and share or export layouts. Some seller links may be affiliate links.
+
 ### **Small Form Factor (SFF) PCs**  
 Cheap and power-efficient homelab nodes.
 
