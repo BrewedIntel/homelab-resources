@@ -127,6 +127,11 @@ Instant performance graphs and health monitoring.
 ### **Uptime Kuma**  
 Simple status page + uptime monitoring.
 
+### **SiteWatcher**
+Self-hosted website uptime and response-time monitoring with TLS and domain expiry checks.
+
+https://github.com/NikKurkov/sitewatcher
+
 ---
 
 ## Automation & Configuration Management
